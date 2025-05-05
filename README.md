@@ -3,4 +3,8 @@ Student of Computer Engineering at the Universidad Técnica Federico Santa Marí
 
 ## Codeforces
 
+<div align="center">
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=charleslakes&theme=transparent&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/charleslakes)
+
+</div>
